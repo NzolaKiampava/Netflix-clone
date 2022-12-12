@@ -1,5 +1,5 @@
 # Netflix-clone
-Netflix clone with ReactJs (Redux + Firebase) 
+Netflix clone projecto made with ReactJs (Redux + Firebase) 
 
 The full project is in master branch
 
